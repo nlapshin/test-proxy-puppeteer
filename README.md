@@ -12,4 +12,4 @@ PROXY_USERNAME=user # if it exists
 PROXY_PASSWORD=password #  # if need
 `
 
-3. Run `npm run start`. And you show your proxy IP address in your console.
+3. Run `npm run start`. And you see your proxy IP address in your console.
